@@ -1,0 +1,6 @@
+# Python önbellek dosyaları
+__pycache__/
+*.pyc
+
+# Büyük model ağırlıkları (GitHub'a yüklenmeyecek)
+*.weights
