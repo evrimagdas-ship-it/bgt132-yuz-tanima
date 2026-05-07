@@ -17,3 +17,5 @@ Bu proje, görüntü işleme tekniklerini kullanarak gerçek zamanlı yüz tespi
 1. Gerekli kütüphaneleri yükleyin:
    ```bash
    pip install opencv-python
+   pip install numpy
+   ```bash
